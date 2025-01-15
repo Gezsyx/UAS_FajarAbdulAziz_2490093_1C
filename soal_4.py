@@ -2,7 +2,7 @@ class Buah:
     def __init__(self):
         self.nama = []
         self.warna = []
-        self.rasas = []
+        self.rasa = []
 
     def setnama(self,item):
         self.nama = item
